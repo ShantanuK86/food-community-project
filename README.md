@@ -2,7 +2,7 @@
 
 FoodHub is a vibrant online community where food enthusiasts come together to share recipes, discuss culinary trends, and explore new flavors.
 Built with React and hosted on Firebase, this web application offers a seamless and engaging experience.
-[Link text](https://shantanu72-foodary.web.app/)
+- [Website Link](https://shantanu72-foodary.web.app/)
 ## Features
 
 - User authentication (sign up, log in)(to be added feaures)
