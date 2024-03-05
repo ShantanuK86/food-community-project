@@ -1,6 +1,6 @@
 # Foodary
 
-FoodHub is a vibrant online community where food enthusiasts come together to share recipes, discuss culinary trends, and explore new flavors.
+Foodary is a vibrant online community where food enthusiasts come together to share recipes, discuss culinary trends, and explore new flavors.
 Built with React and hosted on Firebase, this web application offers a seamless and engaging experience.
 - [Website Link](https://shantanu72-foodary.web.app/)
 ## Features
