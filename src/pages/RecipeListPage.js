@@ -13,7 +13,7 @@ const RecipeListPage = () => {
           <div className="recipe-list">
             {Object.keys(my_recipe).map((recipe) => {
               return (
-                <Link style={{textDecoration:"none"}} to={`/recipe/${recipe}`}>
+                <Link style={{textDecoration:"Bold"}} to={`/recipe/${recipe}`}>
                   <div className="recipe">
                     <h2>{my_recipe[recipe].name}</h2>
                     <div className="sub-section">

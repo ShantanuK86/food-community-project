@@ -8,9 +8,9 @@ const Header = () => {
         <p>"Taste the magic of your kitchen"</p>
       </div>
       <div className="header-links">
-        <Link className="header-items" to="/">Home</Link>
-        <Link className="header-items" to="/community">Community</Link>
-        <Link className="header-items" to="/recipe">Recipe</Link>
+        <Link className="header-items" to="/"><b>Home</b></Link>
+        <Link className="header-items" to="/community"><b>Community</b></Link>
+        <Link className="header-items" to="/recipe"><b>Recipe</b></Link>
       </div>
     </div>
   );
